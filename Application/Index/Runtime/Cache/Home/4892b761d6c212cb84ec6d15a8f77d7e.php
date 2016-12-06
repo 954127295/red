@@ -1,0 +1,10 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>未支付</title>
+</head>
+<body>
+	<h2>亲，您未支付，请支付后领取红包~</h2>
+</body>
+</html>
