@@ -1,0 +1,626 @@
+[ 2016-12-06T21:29:51+08:00 ] 127.0.0.1 /index.php/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/plugins/colorpicker/colorpicker.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/custom-plugins/wizard/wizard.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/css/fonts/icomoon/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/css/icons/icol16.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/css/icons/icol32.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/css/fonts/ptsans/stylesheet.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/jui/css/jquery.ui.all.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/css/demo.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/css/my.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/js/libs/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/css/themer.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/js/libs/jquery.mousewheel.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/js/libs/jquery.placeholder.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/custom-plugins/fileinput.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/jui/js/jquery-ui-1.9.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/jui/jquery-ui.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/jui/js/jquery.ui.touch-punch.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/jui/jquery-ui.custom.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/plugins/datatables/jquery.dataTables.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/plugins/flot/plugins/jquery.flot.pie.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/plugins/flot/plugins/jquery.flot.tooltip.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/plugins/flot/plugins/jquery.flot.stack.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/plugins/flot/plugins/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/plugins/colorpicker/colorpicker-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/plugins/flot/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/plugins/validate/jquery.validate-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/custom-plugins/wizard/wizard.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/js/core/mws.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/css/mws-style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/js/demo/demo.dashboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/js/core/themer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/example/profile.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/images/mws-logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/js/libs/jquery.mousewheel.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/js/libs/jquery.placeholder.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/custom-plugins/fileinput.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/jui/js/jquery-ui-1.9.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:31+08:00 ] 127.0.0.1 /admin.php/b/jui/jquery-ui.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:32+08:00 ] 127.0.0.1 /admin.php/b/jui/js/jquery.ui.touch-punch.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:32+08:00 ] 127.0.0.1 /admin.php/b/plugins/datatables/jquery.dataTables.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:32+08:00 ] 127.0.0.1 /admin.php/b/plugins/flot/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:32+08:00 ] 127.0.0.1 /admin.php/b/plugins/flot/plugins/jquery.flot.tooltip.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:32+08:00 ] 127.0.0.1 /admin.php/b/plugins/flot/plugins/jquery.flot.pie.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:32+08:00 ] 127.0.0.1 /admin.php/b/plugins/flot/plugins/jquery.flot.stack.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:32+08:00 ] 127.0.0.1 /admin.php/b/plugins/flot/plugins/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:32+08:00 ] 127.0.0.1 /admin.php/b/plugins/colorpicker/colorpicker-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:32+08:00 ] 127.0.0.1 /admin.php/b/plugins/validate/jquery.validate-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:32+08:00 ] 127.0.0.1 /admin.php/b/custom-plugins/wizard/wizard.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:32+08:00 ] 127.0.0.1 /admin.php/b/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:32+08:00 ] 127.0.0.1 /admin.php/b/js/core/mws.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:32+08:00 ] 127.0.0.1 /admin.php/b/js/core/themer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:32+08:00 ] 127.0.0.1 /admin.php/b/js/demo/demo.dashboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:56+08:00 ] 127.0.0.1 /admin.php/b/css/demo.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:56+08:00 ] 127.0.0.1 /admin.php/b/jui/css/jquery.ui.all.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:56+08:00 ] 127.0.0.1 /admin.php/b/css/mws-theme.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:56+08:00 ] 127.0.0.1 /admin.php/b/css/my.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:56+08:00 ] 127.0.0.1 /admin.php/b/jui/jquery-ui.custom.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:56+08:00 ] 127.0.0.1 /admin.php/b/css/themer.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:57+08:00 ] 127.0.0.1 /admin.php/b/js/libs/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:57+08:00 ] 127.0.0.1 /admin.php/b/js/libs/jquery.mousewheel.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:57+08:00 ] 127.0.0.1 /admin.php/b/images/mws-logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:57+08:00 ] 127.0.0.1 /admin.php/b/example/profile.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:57+08:00 ] 127.0.0.1 /admin.php/b/custom-plugins/fileinput.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:57+08:00 ] 127.0.0.1 /admin.php/b/js/libs/jquery.placeholder.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:57+08:00 ] 127.0.0.1 /admin.php/b/plugins/datatables/jquery.dataTables.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:57+08:00 ] 127.0.0.1 /admin.php/b/jui/js/jquery-ui-1.9.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:57+08:00 ] 127.0.0.1 /admin.php/b/jui/js/jquery.ui.touch-punch.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:57+08:00 ] 127.0.0.1 /admin.php/b/jui/jquery-ui.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:57+08:00 ] 127.0.0.1 /admin.php/b/plugins/flot/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:57+08:00 ] 127.0.0.1 /admin.php/b/plugins/flot/plugins/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:57+08:00 ] 127.0.0.1 /admin.php/b/plugins/flot/plugins/jquery.flot.pie.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:57+08:00 ] 127.0.0.1 /admin.php/b/plugins/flot/plugins/jquery.flot.stack.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:57+08:00 ] 127.0.0.1 /admin.php/b/custom-plugins/wizard/wizard.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:57+08:00 ] 127.0.0.1 /admin.php/b/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:57+08:00 ] 127.0.0.1 /admin.php/b/js/core/mws.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:57+08:00 ] 127.0.0.1 /admin.php/b/js/core/themer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:57+08:00 ] 127.0.0.1 /admin.php/b/plugins/flot/plugins/jquery.flot.tooltip.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:57+08:00 ] 127.0.0.1 /admin.php/b/plugins/colorpicker/colorpicker-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:57+08:00 ] 127.0.0.1 /admin.php/b/js/demo/demo.dashboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:57+08:00 ] 127.0.0.1 /admin.php/b/plugins/validate/jquery.validate-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:57+08:00 ] 127.0.0.1 /admin.php/b/js/libs/jquery.mousewheel.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:58+08:00 ] 127.0.0.1 /admin.php/b/js/libs/jquery.placeholder.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:58+08:00 ] 127.0.0.1 /admin.php/b/custom-plugins/fileinput.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:58+08:00 ] 127.0.0.1 /admin.php/b/jui/js/jquery-ui-1.9.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:58+08:00 ] 127.0.0.1 /admin.php/b/jui/jquery-ui.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:58+08:00 ] 127.0.0.1 /admin.php/b/jui/js/jquery.ui.touch-punch.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:58+08:00 ] 127.0.0.1 /admin.php/b/plugins/datatables/jquery.dataTables.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:58+08:00 ] 127.0.0.1 /admin.php/b/plugins/flot/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:58+08:00 ] 127.0.0.1 /admin.php/b/plugins/flot/plugins/jquery.flot.tooltip.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:58+08:00 ] 127.0.0.1 /admin.php/b/plugins/flot/plugins/jquery.flot.pie.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:58+08:00 ] 127.0.0.1 /admin.php/b/plugins/flot/plugins/jquery.flot.stack.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:58+08:00 ] 127.0.0.1 /admin.php/b/plugins/flot/plugins/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:58+08:00 ] 127.0.0.1 /admin.php/b/plugins/colorpicker/colorpicker-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:58+08:00 ] 127.0.0.1 /admin.php/b/plugins/validate/jquery.validate-min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:58+08:00 ] 127.0.0.1 /admin.php/b/custom-plugins/wizard/wizard.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:58+08:00 ] 127.0.0.1 /admin.php/b/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:58+08:00 ] 127.0.0.1 /admin.php/b/js/core/mws.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:58+08:00 ] 127.0.0.1 /admin.php/b/js/core/themer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T21:34:59+08:00 ] 127.0.0.1 /admin.php/b/js/demo/demo.dashboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:B
+
+[ 2016-12-06T22:19:39+08:00 ] 127.0.0.1 /admin.php/%7Burl('Index/add')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:{url('Index
+
+[ 2016-12-06T22:19:48+08:00 ] 127.0.0.1 /admin.php/%7Burl('Index/add')%7D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:{url('Index
+
