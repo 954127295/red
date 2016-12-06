@@ -1,1 +1,6 @@
-潘栋他儿子时雨大傻逼，他没有小jj
+git pull
+
+git status 
+git add -A.
+git commit-m''
+git push
