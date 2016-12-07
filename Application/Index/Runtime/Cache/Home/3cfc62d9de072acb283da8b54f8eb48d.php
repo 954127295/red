@@ -66,7 +66,6 @@
 		<div id="b" class="a"><img src="/Public/img/redbreak.png" /></div>
 		<div id="b" class="a"><img src="/Public/img/redbreak.png" /></div>
 		<div id="b" class="a"><img src="/Public/img/redbreak.png" /></div>
-		<input type="hidden" name="number" value="<?php echo ($number); ?>">
 		<div style="clear:both;"></div>
 	</div>
 	<style>
@@ -110,14 +109,22 @@
 </html>
 <script>
  $(".r_break_c .a").click(function(){
- 	var a = $("input[name='number']").val();
- 	var rank = Math.random()*a;
- 	var ranks =Number(rank).toFixed(2);
- 	var rankss= Number(ranks).toFixed(2);
- 	alert('恭喜中奖'+rankss);
+	var a = <?php echo ($kopen); ?>;
+ 	alert('恭喜中奖'+a);
  	var dd = (Math.random()*10).toFixed(2);
- 	var aaa = $(this).children('img').after("<p class='p'>" + rankss + "</p>");
- 	var aaa = $('.r_break_c *').not(this).children('img').after("<p class='p'>" + dd + "</p>");;
+ 	var aaa = $(this).children('img').after("<p class='p'>" + a + "</p>");
+
+	for (var i=0;i<7;i++){
+	
+	
+		
+		var rank = Math.ceil(Math.random()*10)*a;
+		var ranks =Number(rank).toFixed(2);
+		var rankss= Number(ranks).toFixed(2);
+		var numr = rankss;
+		$('.r_break_c *').not(this).children('img').eq(i).after("<p class='p'>" + numr + "</p>");
+	}
+	
  	// alert(aaa);
  	$('.p').css('display','block');
  	// var a = $("input[name='uname']").val('vvv');

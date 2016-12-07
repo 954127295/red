@@ -36,7 +36,7 @@
 				<div id="s">金额（元）</div>
 				<div style="clear:both;"></div>
 			</div>
-			<a href="<?php echo U('Index/getHandle');?>"><div id="break">拆红包</div></a>
+			<a href="<?php echo U('Index/getBreak');?>"><div id="break">拆红包</div></a>
 		</div>
 	</div>
 	<style>
