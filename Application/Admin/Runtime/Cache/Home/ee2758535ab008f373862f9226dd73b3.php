@@ -40,34 +40,34 @@
 </head>
 
 <body>
-	<!-- Header -->
-	<div id="mws-header" class="clearfix">
+    <!-- Header -->
+    <div id="mws-header" class="clearfix">
     
-    	<!-- Logo Container -->
-    	<div id="mws-logo-container">
+        <!-- Logo Container -->
+        <div id="mws-logo-container">
         
-        	<!-- Logo Wrapper, images put within this wrapper will always be vertically centered -->
-        	<div id="mws-logo-wrap">
-            	<img src="/Public/images/mws-logo.png" alt="mws admin">
-			</div>
+            <!-- Logo Wrapper, images put within this wrapper will always be vertically centered -->
+            <div id="mws-logo-wrap">
+                <img src="/Public/images/mws-logo.png" alt="mws admin">
+            </div>
         </div>
         
         <!-- User Tools (notifications, logout, profile, change password) -->
         <div id="mws-user-tools" class="clearfix">
         
-        	<!-- Notifications -->
-        	<div id="mws-user-notif" class="mws-dropdown-menu">
-            	<a href="#" data-toggle="dropdown" class="mws-dropdown-trigger"><i class="icon-exclamation-sign"></i></a>
+            <!-- Notifications -->
+            <div id="mws-user-notif" class="mws-dropdown-menu">
+                <a href="#" data-toggle="dropdown" class="mws-dropdown-trigger"><i class="icon-exclamation-sign"></i></a>
                 
                 <!-- Unread notification count -->
                 <span class="mws-dropdown-notif">35</span>
                 
                 <!-- Notifications dropdown -->
                 <div class="mws-dropdown-box">
-                	<div class="mws-dropdown-content">
+                    <div class="mws-dropdown-content">
                         <ul class="mws-notifications">
-                        	<li class="read">
-                            	<a href="#">
+                            <li class="read">
+                                <a href="#">
                                     <span class="message">
                                         Lorem ipsum dolor sit amet consectetur adipiscing elit, et al commore
                                     </span>
@@ -76,8 +76,8 @@
                                     </span>
                                 </a>
                             </li>
-                        	<li class="read">
-                            	<a href="#">
+                            <li class="read">
+                                <a href="#">
                                     <span class="message">
                                         Lorem ipsum dolor sit amet
                                     </span>
@@ -86,8 +86,8 @@
                                     </span>
                                 </a>
                             </li>
-                        	<li class="unread">
-                            	<a href="#">
+                            <li class="unread">
+                                <a href="#">
                                     <span class="message">
                                         Lorem ipsum dolor sit amet
                                     </span>
@@ -96,8 +96,8 @@
                                     </span>
                                 </a>
                             </li>
-                        	<li class="unread">
-                            	<a href="#">
+                            <li class="unread">
+                                <a href="#">
                                     <span class="message">
                                         Lorem ipsum dolor sit amet
                                     </span>
@@ -108,7 +108,7 @@
                             </li>
                         </ul>
                         <div class="mws-dropdown-viewall">
-	                        <a href="#">View All Notifications</a>
+                            <a href="#">View All Notifications</a>
                         </div>
                     </div>
                 </div>
@@ -116,17 +116,17 @@
             
             <!-- Messages -->
             <div id="mws-user-message" class="mws-dropdown-menu">
-            	<a href="#" data-toggle="dropdown" class="mws-dropdown-trigger"><i class="icon-envelope"></i></a>
+                <a href="#" data-toggle="dropdown" class="mws-dropdown-trigger"><i class="icon-envelope"></i></a>
                 
                 <!-- Unred messages count -->
                 <span class="mws-dropdown-notif">35</span>
                 
                 <!-- Messages dropdown -->
                 <div class="mws-dropdown-box">
-                	<div class="mws-dropdown-content">
+                    <div class="mws-dropdown-content">
                         <ul class="mws-messages">
-                        	<li class="read">
-                            	<a href="#">
+                            <li class="read">
+                                <a href="#">
                                     <span class="sender">John Doe</span>
                                     <span class="message">
                                         Lorem ipsum dolor sit amet consectetur adipiscing elit, et al commore
@@ -136,8 +136,8 @@
                                     </span>
                                 </a>
                             </li>
-                        	<li class="read">
-                            	<a href="#">
+                            <li class="read">
+                                <a href="#">
                                     <span class="sender">John Doe</span>
                                     <span class="message">
                                         Lorem ipsum dolor sit amet
@@ -147,8 +147,8 @@
                                     </span>
                                 </a>
                             </li>
-                        	<li class="unread">
-                            	<a href="#">
+                            <li class="unread">
+                                <a href="#">
                                     <span class="sender">John Doe</span>
                                     <span class="message">
                                         Lorem ipsum dolor sit amet
@@ -158,8 +158,8 @@
                                     </span>
                                 </a>
                             </li>
-                        	<li class="unread">
-                            	<a href="#">
+                            <li class="unread">
+                                <a href="#">
                                     <span class="sender">John Doe</span>
                                     <span class="message">
                                         Lorem ipsum dolor sit amet
@@ -171,7 +171,7 @@
                             </li>
                         </ul>
                         <div class="mws-dropdown-viewall">
-	                        <a href="#">View All Messages</a>
+                            <a href="#">View All Messages</a>
                         </div>
                     </div>
                 </div>
@@ -180,9 +180,9 @@
             <!-- User Information and functions section -->
             <div id="mws-user-info" class="mws-inset">
             
-            	<!-- User Photo -->
-            	<div id="mws-user-photo">
-                	<img src="/Public/example/profile.jpg" alt="User Photo">
+                <!-- User Photo -->
+                <div id="mws-user-photo">
+                    <img src="/Public/example/profile.jpg" alt="User Photo">
                 </div>
                 
                 <!-- Username and Functions -->
@@ -191,7 +191,7 @@
                         Hello, John Doe
                     </div>
                     <ul>
-                    	<li><a href="#">Profile</a></li>
+                        <li><a href="#">Profile</a></li>
                         <li><a href="#">Change Password</a></li>
                         <li><a href="index.html">Logout</a></li>
                     </ul>
@@ -203,9 +203,9 @@
     <!-- Start Main Wrapper -->
     <div id="mws-wrapper">
     
-    	<!-- Necessary markup, do not remove -->
-		<div id="mws-sidebar-stitch"></div>
-		<div id="mws-sidebar-bg"></div>
+        <!-- Necessary markup, do not remove -->
+        <div id="mws-sidebar-stitch"></div>
+        <div id="mws-sidebar-bg"></div>
         
         <!-- Sidebar Wrapper -->
         <div id="mws-sidebar">
@@ -217,10 +217,10 @@
                 <span></span>
             </div>
             
-        	<!-- Searchbox -->
-        	<div id="mws-searchbox" class="mws-inset">
-            	<form action="typography.html">
-                	<input type="text" class="mws-search-input" placeholder="Search...">
+            <!-- Searchbox -->
+            <div id="mws-searchbox" class="mws-inset">
+                <form action="typography.html">
+                    <input type="text" class="mws-search-input" placeholder="Search...">
                     <button type="submit" class="mws-search-submit"><i class="icon-search"></i></button>
                 </form>
             </div>
@@ -246,18 +246,45 @@
         </div>
         
         <!-- Main Container Start -->
-            <!-- 内容区 -->
-            <center>
-            <h1 style="margin-top:250px">欢迎您<b style="color:green"><?php echo ($name); ?></b>！来到admin后台管理</h1>
-          </center>
-                <!-- footer -->
-                <div id="mws-footer">
-                  @ 版权
+         <div id="mws-container" class="clearfix" style="margin-top:8%;margin-left:30%;width:50%">
+            <div class="mws-panel grid_8">
+                    <div class="mws-panel-header">
+                        <span><i class="icon-table"></i>红包金额设置</span>
+                    </div>
+                    <div class="mws-panel-body no-padding">
+                        <div id="DataTables_Table_1_wrapper" class="dataTables_wrapper" role="grid"><table class="mws-datatable-fn mws-table dataTable" id="DataTables_Table_1" aria-describedby="DataTables_Table_1_info">
+                            <thead>
+                                <tr role="row">
+                                    <th class="sorting" role="columnheader" tabindex="0" aria-controls="DataTables_Table_1" rowspan="1" colspan="1" style="width: 120px;" aria-label="Browser: activate to sort column ascending">最小值</th>
+                                    <th class="sorting" role="columnheader" tabindex="0" aria-controls="DataTables_Table_1" rowspan="1" colspan="1" style="width: 120px;" aria-label="Platform(s): activate to sort column ascending">最大值</th>
+                                    <th class="sorting" role="columnheader" tabindex="0" aria-controls="DataTables_Table_1" rowspan="1" colspan="1" style="width: 55px;" aria-label="Engine version: activate to sort column ascending">操作</th>
+                                </tr>
+                            </thead>
+                            
+                        <tbody role="alert" aria-live="polite" aria-relevant="all"><tr class="odd">
+                                  
+                                </tr>
+                                        <?php if(is_array($list)): $i = 0; $__LIST__ = $list;if( count($__LIST__)==0 ) : echo "暂时没有数据" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($i % 2 );++$i;?><tr class="even">
+                                        <td style="color:red;text-align:center;"><b><?php echo ($vo["min"]); ?></b></td>
+                                        <td style="color:red;text-align:center;"><b><?php echo ($vo["max"]); ?></b></td>
+                                        <td style="text-align:center;"><a href="<?php echo U('Index/edit',array('id'=>$vo[id]));?>" style="color:blue"><b>更改</b></a></td>
+                                </tr><?php endforeach; endif; else: echo "暂时没有数据" ;endif; ?>
+                                </tbody></table>
+                                <div id="DataTables_Table_1_paginate">
+                                
+                                </div>
+                                </div>
+                    </div>
                 </div>
+                
+                               
+              
+                <!-- footer -->
+                
         </div>
         <!-- Main Container End -->
         
- 
+    </div>
 
     <!-- JavaScript Plugins -->
     <script src="/Public/js/libs/jquery-1.8.3.min.js"></script>

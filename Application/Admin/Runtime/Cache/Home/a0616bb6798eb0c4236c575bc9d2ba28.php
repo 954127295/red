@@ -238,7 +238,7 @@
         <li>
             <a href="#"><i class="icon-th-list"></i> 金额管理</a>
             <ul class="closed">
-                <li><a href="">金额管理</a></li>
+                <li><a href="<?php echo U('Index/money');?>">金额管理</a></li>
             </ul>
         </li>
     </ul>
@@ -273,9 +273,13 @@
                                             <td style="color:green;text-align:center;">已付款</td>
                                             <?php else: ?>
                                              <td style="color:#ccc;text-align:center;">已抽奖</td><?php endif; ?>
-                                        <td style="text-align:center;"><a href="">删除</a></td>
+                                        <td style="text-align:center;"><a href="<?php echo U('Index/del',array('id'=>$vo[id]));?>">删除</a></td>
                                 </tr><?php endforeach; endif; else: echo "暂时没有数据" ;endif; ?>
-                                </tbody></table><div class="dataTables_paginate paging_full_numbers" id="DataTables_Table_1_paginate"><a tabindex="0" class="first paginate_button paginate_button_disabled" id="DataTables_Table_1_first">First</a><a tabindex="0" class="previous paginate_button paginate_button_disabled" id="DataTables_Table_1_previous">Previous</a><span><a tabindex="0" class="paginate_active">1</a><a tabindex="0" class="paginate_button">2</a><a tabindex="0" class="paginate_button">3</a><a tabindex="0" class="paginate_button">4</a><a tabindex="0" class="paginate_button">5</a></span><a tabindex="0" class="next paginate_button" id="DataTables_Table_1_next">Next</a><a tabindex="0" class="last paginate_button" id="DataTables_Table_1_last">Last</a></div></div>
+                                </tbody></table>
+                                <div class="dataTables_paginate paging_full_numbers" id="DataTables_Table_1_paginate">
+                                分页
+                                </div>
+                                </div>
                     </div>
                 </div>
                 

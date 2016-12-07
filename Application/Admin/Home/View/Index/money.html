@@ -230,19 +230,18 @@
         </div>
         
         <!-- Main Container Start -->
-         <div id="mws-container" class="clearfix">
+         <div id="mws-container" class="clearfix" style="margin-top:8%;margin-left:30%;width:50%">
             <div class="mws-panel grid_8">
                     <div class="mws-panel-header">
-                        <span><i class="icon-table"></i>付款状态</span>
+                        <span><i class="icon-table"></i>红包金额设置</span>
                     </div>
                     <div class="mws-panel-body no-padding">
                         <div id="DataTables_Table_1_wrapper" class="dataTables_wrapper" role="grid"><table class="mws-datatable-fn mws-table dataTable" id="DataTables_Table_1" aria-describedby="DataTables_Table_1_info">
                             <thead>
                                 <tr role="row">
-                                    <th class="sorting_asc" role="columnheader" tabindex="0" aria-controls="DataTables_Table_1" rowspan="1" colspan="1" style="width: 30px;" aria-sort="ascending" aria-label="Rendering engine: activate to sort column descending">id</th>
-                                    <th class="sorting" role="columnheader" tabindex="0" aria-controls="DataTables_Table_1" rowspan="1" colspan="1" style="width: 30px;" aria-label="Browser: activate to sort column ascending">用户id</th>
-                                    <th class="sorting" role="columnheader" tabindex="0" aria-controls="DataTables_Table_1" rowspan="1" colspan="1" style="width: 195px;" aria-label="Platform(s): activate to sort column ascending">付款状态</th>
-                                    <th class="sorting" role="columnheader" tabindex="0" aria-controls="DataTables_Table_1" rowspan="1" colspan="1" style="width: 35px;" aria-label="Engine version: activate to sort column ascending">操作</th>
+                                    <th class="sorting" role="columnheader" tabindex="0" aria-controls="DataTables_Table_1" rowspan="1" colspan="1" style="width: 120px;" aria-label="Browser: activate to sort column ascending">最小值</th>
+                                    <th class="sorting" role="columnheader" tabindex="0" aria-controls="DataTables_Table_1" rowspan="1" colspan="1" style="width: 120px;" aria-label="Platform(s): activate to sort column ascending">最大值</th>
+                                    <th class="sorting" role="columnheader" tabindex="0" aria-controls="DataTables_Table_1" rowspan="1" colspan="1" style="width: 55px;" aria-label="Engine version: activate to sort column ascending">操作</th>
                                 </tr>
                             </thead>
                             
@@ -250,22 +249,15 @@
                                   
                                 </tr>
                                         <volist name="list" id="vo" empty="暂时没有数据">
-                                    <tr class="even">
-                                        <td class="  sorting_1">{$vo.id}</td>
-                                        <td class=" ">{$vo.uid}</td>
-                                            <if condition="$vo.status eq 0 ">
-                                            <td style="color:red;text-align:center;">未付款</td>
-                                            <elseif condition="$vo.status eq 2 "/>
-                                            <td style="color:green;text-align:center;">已付款</td>
-                                            <else/>
-                                             <td style="color:#ccc;text-align:center;">已抽奖</td>
-                                            </if>
-                                        <td style="text-align:center;"><a href="{:U('Index/del',array('id'=>$vo[id]))}">删除</a></td>
+                                        <tr class="even">
+                                        <td style="color:red;text-align:center;"><b>{$vo.min}</b></td>
+                                        <td style="color:red;text-align:center;"><b>{$vo.max}</b></td>
+                                        <td style="text-align:center;"><a href="{:U('Index/edit',array('id'=>$vo[id]))}" style="color:blue"><b>更改</b></a></td>
                                 </tr>
                                     </volist>
                                 </tbody></table>
-                                <div class="dataTables_paginate paging_full_numbers" id="DataTables_Table_1_paginate">
-                                分页
+                                <div id="DataTables_Table_1_paginate">
+                                
                                 </div>
                                 </div>
                     </div>
