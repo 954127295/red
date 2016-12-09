@@ -51,4 +51,28 @@ class IndexController extends Controller {
 		$this->assign("kopen",$kopen);
 		$this->display();
 	}
+	//写入获奖记录
+	public function ajax_get_money(){
+		$money = I("post.money");
+		$gl = M("Getlog");
+		$us = M("UserStatus");
+		$uid = $this->uid;
+		$where['uid'] = $uid;
+		$where['status'] = 2;
+		$check = $us->where($where)->find();
+		if(!empty($check)){
+			$data['uid'] = $uid;
+			$data['gmoney'] = $money;
+			$res = $gl->add($data);
+			if(!empty($res)){
+				$edit['status'] = 3;
+				unset($where);
+				$where['uid'] = $uid;
+				$us->where($where)->save($edit);
+				echo json_encode(array("code"=>0,"message"=>"恭喜中奖".$money."元"));
+			}
+		}else{
+			echo json_encode(array("code"=>0,"message"=>"抽奖资格已用完"));
+		}
+	}
 }

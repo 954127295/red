@@ -110,23 +110,33 @@
 <script>
  $(".r_break_c .a").click(function(){
 	var a = <?php echo ($kopen); ?>;
- 	alert('恭喜中奖'+a);
  	var dd = (Math.random()*10).toFixed(2);
+	ajax_get_money(a);
  	var aaa = $(this).children('img').after("<p class='p'>" + a + "</p>");
 
 	for (var i=0;i<7;i++){
-	
-	
-		
 		var rank = Math.ceil(Math.random()*10)*a;
 		var ranks =Number(rank).toFixed(2);
 		var rankss= Number(ranks).toFixed(2);
 		var numr = rankss;
 		$('.r_break_c *').not(this).children('img').eq(i).after("<p class='p'>" + numr + "</p>");
 	}
-	
  	// alert(aaa);
  	$('.p').css('display','block');
+	
+	function ajax_get_money(m){
+		$.ajax({
+			url:"<?php echo U('Index/ajax_get_money');?>",
+			type:"post",
+			dataType:"json",
+			data:{"money":m},
+			success:function(data){
+				if(data.code == 0){
+					alert(data.message);
+				}
+			}
+		});
+	}
  	// var a = $("input[name='uname']").val('vvv');
   //   if($(this).attr('checked')){
   //     id=$(this).val();
